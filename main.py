@@ -22,4 +22,3 @@ with conn.cursor() as cursor:
     df = pd.DataFrame(list(data), columns=column_names)
 
 print(df.head())
-
