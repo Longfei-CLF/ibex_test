@@ -48,7 +48,7 @@ Customers of a company (dbo.Users) receive various offers (dbo.Offers). The comp
 
 ## Question 4: the response rate of each offer
 <p align="center">
-  <img width="800" src="https://github.com/Longfei-CLF/ibex_test/blob/37a9067367e6d07f108d658210b466a3ed40da34/graph/Response%20Rate.png" alt="Material Bread logo">
+  <img width="800" src="https://github.com/Longfei-CLF/ibex_test/blob/207df5165a838c296c11044e770e46da09f3921c/graph/Response%20Rate.png" alt="Material Bread logo">
 </p>
 
 **Graph 4. The response rate of each offer**
