@@ -4,7 +4,7 @@ Customers of a company (dbo.Users) receive various offers (dbo.Offers). The comp
 
 ## Question 1: the average revenue for users by day of the week
 <p align="center">
-  <img width="600" src="https://github.com/Longfei-CLF/ibex_test/blob/37a9067367e6d07f108d658210b466a3ed40da34/graph/Average%20Revenue.png">
+  <img width="600" length="500" src="https://github.com/Longfei-CLF/ibex_test/blob/37a9067367e6d07f108d658210b466a3ed40da34/graph/Average%20Revenue.png">
 </p>
 
 **Graph 1. The average renvenue for users by day of the week**
