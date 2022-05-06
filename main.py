@@ -197,7 +197,7 @@ def plot_response_rate(sql):
     df = OfferResponded.TotRevenue/OfferSent.UserId
 
     plt.figure(figsize=(12, 5))
-    plt.plot(df)
+    plt.plot(df.sort_values(ascending=False))
 
     plt.show()
     plt.savefig('graph/Response Rate.png')
